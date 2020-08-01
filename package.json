@@ -1,0 +1,24 @@
+{
+  "name": "just-do-it",
+  "version": "1.0.0",
+  "description": "A to-do list made with electronJS.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salmomascarenhas/just-do-it.git"
+  },
+  "keywords": [],
+  "author": "Salmo Mascarenhas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salmomascarenhas/just-do-it/issues"
+  },
+  "homepage": "https://github.com/salmomascarenhas/just-do-it#readme",
+  "devDependencies": {
+    "electron": "^9.1.2"
+  }
+}
