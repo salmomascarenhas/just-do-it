@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/salmomascarenhas/just-do-it#readme",
   "devDependencies": {
-    "electron": "^9.1.2"
+    "electron": "^9.3.0"
   }
 }
